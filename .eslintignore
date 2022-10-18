@@ -1,6 +1,4 @@
-/dist
-/lib
-/es
-
-/examples/dist
-/node_modules
+es
+cjs
+dist
+scripts
